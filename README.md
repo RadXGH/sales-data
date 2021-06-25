@@ -1,5 +1,7 @@
 # sales-data
-C program to track sales data.
+
+_Created in 2020_
+_Posted on 25 June 2021_
 
 ## Overview
 This was a program for a university group project in the first semester.
