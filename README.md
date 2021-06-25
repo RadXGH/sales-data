@@ -6,7 +6,7 @@ _Posted on 25 June 2021_
 
 ## Overview
 This was a program for a university group project in the first semester.
-
+Only tested on Windows 10.
 Program was written in C.
 
 Program uses several headers:
@@ -28,7 +28,6 @@ Program uses several headers:
 ![1](https://user-images.githubusercontent.com/85069947/123452387-90a8dc00-d608-11eb-9226-9239eb1a1a45.JPG)
 ![2](https://user-images.githubusercontent.com/85069947/123452402-943c6300-d608-11eb-8f22-ce5b632e5b4b.JPG)
 ![3](https://user-images.githubusercontent.com/85069947/123452403-94d4f980-d608-11eb-9a5d-9ab0fb5f5761.JPG)
-
 
 ## Guide
 - Since the program menus and files were written in Indonesian, this might help:
