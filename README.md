@@ -1,6 +1,11 @@
 # sales-data
 C program to track sales data.
 
+## Overview
+This was a program for a university group project in the first semester.
+
+Program was written in C.
+
 ## Guide
 - Since the program menus and files were written in Indonesian, this might help:
    - Files
@@ -34,3 +39,7 @@ C program to track sales data.
      - Jumlah => Total/Sum
      - Apakah anda yakin? => Are you sure?
      - Ya => Yes
+
+## Developer
+- Albert E (RadX) vradnisntlong@gmail.com
+- my university friends (don't remember who)
