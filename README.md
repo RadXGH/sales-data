@@ -6,8 +6,8 @@ _Posted on 25 June 2021_
 
 ## Overview
 This was a program for a university group project in the first semester.
-Only tested on Windows 10.
-Program was written in C.
+
+Program was written in C. Only tested on Windows 10.
 
 Program uses several headers:
 - stdio.h
