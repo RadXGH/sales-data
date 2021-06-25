@@ -1,12 +1,27 @@
 # sales-data
 
 _Created in 2020_
+
 _Posted on 25 June 2021_
 
 ## Overview
 This was a program for a university group project in the first semester.
 
 Program was written in C.
+
+Program uses several headers:
+- stdio.h
+- stdlib.h
+- string.h
+- windows.h
+- stdbool.h
+- conio.h
+
+## Features
+- Sign In Page
+- Sign Up Page
+- 8 Menu Pages (sign in and sign up page not included)
+- Files to store account infos and item infos.
 
 ## Guide
 - Since the program menus and files were written in Indonesian, this might help:
